@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Frequent
+comment1.params=s
+comment1.target=Frequent(java.lang.String)
+comment2.params=subs
+comment2.target=java.lang.String\ extracText(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

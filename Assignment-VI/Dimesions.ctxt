@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dimesions
+comment1.params=
+comment1.target=void\ calcArea()
+comment2.params=num
+comment2.target=Dimesions(int)
+comment3.params=
+comment3.target=void\ readSides()
+numComments=4

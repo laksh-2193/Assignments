@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Counting
+comment0.text=\r\nWrite\ a\ program\ to\ accept\ a\ sentence\ which\ may\ be\ terminated\ by\ either\ '.'\ or\ '?'\ only.\ The\ words\ are\ to\ be\r\n\ \ \ \ separated\ by\ a\ single\ blank\ space.\ Print\ an\ error\ message\ if\ the\ input\ does\ not\ terminate\ with\ '.'\ or\ '?'.\ You\ can\r\n\ \ \ \ assume\ that\ no\ word\ in\ the\ sentence\ exceeds\ 15\ characters,\ so\ that\ you\ get\ a\ proper\ formatted\ output.\ Perform\r\n\ \ \ \ the\ following\ tasks\:\r\n\ \ \ \ (i)\ Convert\ the\ first\ letter\ of\ each\ word\ to\ uppercase.\r\n\ \ \ \ (ii)\ Find\ the\ number\ of\ vowels\ and\ consonants\ in\ each\ word\ and\ display\ them\ with\ proper\ headings\r\n\ \ \ \ along\ with\ the\ words.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ques_4
+comment0.text=\r\n\ Program\ to\ make\ a\ pyramid\ like\ this\:\r\n\ \ \ \ 1\r\n\ \ \ 2\ 2\r\n\ \ 3\ 3\ 3\r\n\ 4\ 4\ 4\ 4\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

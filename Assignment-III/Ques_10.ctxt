@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ques_10
+comment0.text=\r\n\ Program\ to\ reduce\ the\ fraction\ to\ the\ lowest\ term\r\n
+comment1.params=x\ y
+comment1.target=void\ reduceFraction(int,\ int)
+comment2.params=a\ b
+comment2.target=int\ __gcd(int,\ int)
+comment3.params=numerator\ denominator
+comment3.target=void\ main(int,\ int)
+numComments=4

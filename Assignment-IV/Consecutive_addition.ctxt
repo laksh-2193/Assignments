@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Consecutive_addition
+comment0.text=\r\n\ WAP\ to\ input\ the\ a\ number\ and\ to\ get\ the\ possible\ consecutive\ number\ of\ addition\ pairs\ of\ that\ number;\r\n\ For\ e.g.\ input\ \=\ 27\r\n\r\n
+comment1.params=x
+comment1.target=void\ main(int)
+numComments=2

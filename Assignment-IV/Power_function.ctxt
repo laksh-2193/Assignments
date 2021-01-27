@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Power_function
+comment0.text=\r\n\ WAP\ to\ input\ a\ number\ and\ find\ m\ to\ the\ power\ n\ where\ default\ value\ of\ n\ is\ 2\r\n
+comment1.params=m
+comment1.target=void\ main(int)
+comment2.params=m\ n
+comment2.target=void\ power(int,\ int)
+numComments=3

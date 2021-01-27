@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Date_
+comment0.text=\r\nWAP\ to\ input\ a\ six\ digit\ from\ user\ and\ get\ the\ exact\ date\ of\ it.\r\n\r\n111219\r\nOutput\ \:\ 11\ December\ 2019\r\n
+comment1.params=dt
+comment1.target=void\ main(int)
+comment2.params=
+comment2.target=void\ invalid_print()
+numComments=3

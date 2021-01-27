@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Manager
+comment1.params=n\ s\ d
+comment1.target=Manager(java.lang.String,\ double,\ Day)
+comment2.params=byPercent
+comment2.target=void\ raiseSalary(double)
+comment3.params=n
+comment3.target=void\ setSecratoryName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getSecrataryName()
+numComments=5

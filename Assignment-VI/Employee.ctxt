@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=n\ s\ d
+comment1.target=Employee(java.lang.String,\ double,\ Day)
+comment2.params=
+comment2.target=void\ print()
+comment3.params=byPercent
+comment3.target=void\ raiseSalary(double)
+comment4.params=
+comment4.target=int\ hireYear()
+numComments=5

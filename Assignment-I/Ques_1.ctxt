@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ques_1
+comment0.text=\r\n\ Program\ to\ print\ the\ following\ pattern\r\n\ 1\r\n\ 22\r\n\ 333\r\n\ 4444\r\n\ 55555\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

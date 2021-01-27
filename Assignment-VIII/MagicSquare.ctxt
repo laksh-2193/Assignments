@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MagicSquare
+comment1.params=n
+comment1.target=MagicSquare(int)
+comment2.params=
+comment2.target=void\ create()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=msgi
+comment5.target=void\ sys_printmsg(java.lang.String)
+numComments=6

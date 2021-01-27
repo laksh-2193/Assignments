@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BinaryGCD
+comment1.params=a\ b
+comment1.target=BinaryGCD(int,\ int)
+comment2.params=p\ q
+comment2.target=int\ binGcd(int,\ int)
+comment3.params=
+comment3.target=int\ getGcd()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
